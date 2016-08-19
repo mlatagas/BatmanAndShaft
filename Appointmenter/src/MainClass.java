@@ -11,6 +11,8 @@ public class MainClass {
 		
 
 		System.out.println("Made by Albert");
+		
+		System.out.println("More stuff by Shaun");
 
 	}
 
